@@ -1,0 +1,44 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+h1, h2, h3, h4{
+    color: #5d7963;
+    font-family: 'Italiana', serif;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+    color: #5d7963 !important;
+    font-family: 'Italiana', serif;
+    font-size: 30px;
+}
+/*#intro {*/
+/*    background: url("../img/main.jpg")no-repeat center center fixed;*/
+/*    background-size: 50%;*/
+/*}*/
+
+#intro h2{
+    font-size: 90px;
+}
+.mask{
+    background-color: #f1efec;
+    opacity: 80%;
+}
+
+form {
+    color: gray;
+}
+
+
+
+
+
+
+

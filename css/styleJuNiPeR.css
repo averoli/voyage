@@ -1,0 +1,74 @@
+html,
+body,
+header,
+.head {
+    height: 100%;
+}
+h1{
+    font-family: 'Italiana', serif;
+}
+
+h2, h3, h4, p{
+    font-family: 'Karla', sans-serif;
+}
+
+p{
+    font-size: large;
+}
+
+.intro{
+    background-color: #EFD7D3;
+    right: 0;
+}
+.rigthmenu{
+    right: 3%;
+    top: 100%;
+    width: 25% !important;
+
+}
+
+.head1{
+    background-color: #EFD7D3;
+    height: 50%;
+}
+
+nav {
+    font-family: 'Italiana', serif;
+}
+
+.navbar a{
+    font-size: 1em !important;
+    text-align: center;
+}
+
+.message{
+    font-size: 1.2em;
+    color: black !important;
+    text-align: center;
+}
+
+.navbar-brand{
+    color: black !important;
+    align-items: center;
+    font-size: 100px !important;
+}
+
+.navbar-nav{
+    border: 2px solid gray !important;
+    background-color: #EFD7D3;
+}
+
+.btn-style{
+    background-color: #EFD7D3 !important;
+    font-family: 'Italiana', serif !important;
+    font-size: xx-large !important;
+}
+
+.btn-style:hover {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
+
+
+
